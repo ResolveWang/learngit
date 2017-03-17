@@ -5,3 +5,4 @@ Git tracks changes
 Creating a new branch is quick AND simple.
 branch management
 merge without --no-ff
+it's change by dev
